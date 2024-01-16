@@ -36,4 +36,4 @@ This is a website developed using native PHP.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/DanielRiosM/API-REST-PHP.git
+   git clone https://github.com/DanielRiosM/BLOG-PHP-NATIVE.git
